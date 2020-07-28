@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hey, I'm Aalap 👋
+
+I'm a full stack developer and 3rd year CS student at UT Austin. I enjoy creating software solutions whenever I notice a problem or inconvenience, and I'm currently a Technical Project Manager at [UT's IEEE CS](http://ieeecs.ece.utexas.edu/projects) chapter. I've also worked as a software engineer intern at [Capital One](https://www.capitalone.com/) and [Olympus](https://www.olympusamerica.com/).
+
+In my free time, I enjoy weightlifting, reading about finance, and traveling.
+
+- 🔭 I’m currently working on a health related iOS and watchOS app.
+- 👯 I’m looking to collaborate on any type of project!
+- 💬 Ask me about AWS, Java, JS and JS frameworks
+- 📫 How to reach me: [aalap.patel@utexas.edu](mailto:aalap.patel@utexas.edu) or [LinkedIn](linkedin.com/in/aalap07)
+- 😄 Pronouns: he/him
 
 <!--
 **aalap07/aalap07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
