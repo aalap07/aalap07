@@ -1,8 +1,8 @@
 ### Hey, I'm Aalap 👋
 
-I'm a full stack developer and 3rd year CS student at UT Austin. I enjoy creating software solutions whenever I notice a problem or inconvenience, and I'm currently a Technical Project Manager at [UT's IEEE CS](http://ieeecs.ece.utexas.edu/projects) chapter. I've also worked as a software engineer intern at [Capital One](https://www.capitalone.com/) and [Olympus](https://www.olympusamerica.com/).
+I'm a full stack developer and 3rd year CS student at UT Austin. I enjoy creating software solutions whenever I notice a problem or inconvenience, and I'm currently a Technical Project Manager at [UT's IEEE CS](http://ieeecs.ece.utexas.edu/projects) chapter, where I lead teams of engineers in doing the same. I've also worked as a software engineer intern at [Capital One](https://www.capitalone.com/) and [Olympus](https://www.olympusamerica.com/).
 
-In my free time, I enjoy weightlifting, reading about finance, and traveling.
+In my free time, I enjoy weightlifting, reading about finance, photography, and traveling.
 
 - 🔭 I’m currently working on a health related iOS and watchOS app.
 - 👯 I’m looking to collaborate on any type of project!
