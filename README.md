@@ -4,7 +4,7 @@ I'm a full stack developer and 3rd year CS student at UT Austin. I enjoy creatin
 
 In my free time, I enjoy weightlifting, reading about finance, photography, and traveling.
 
-- 🔭 I’m currently working on a health related iOS and watchOS app.
+- 🔭 I’m currently working on an app for people to easily form connections.
 - 👯 I’m looking to collaborate on any type of project!
 - 💬 Ask me about AWS, Java, JS and JS frameworks
 - 📫 How to reach me: [aalap.patel@utexas.edu](mailto:aalap.patel@utexas.edu) or [LinkedIn](linkedin.com/in/aalap07)
